@@ -1,6 +1,6 @@
 @font-face {
 	font-family: "Bebas Kai";
-	src: url("BebasKai.ttf") format("ttf");
+	src: url("/style/BebasKai.ttf") format("ttf");
 }	
 
 body {
@@ -16,6 +16,7 @@ body {
 body > div {
 	background-color: #1c1c1c;
 	width: 90%;
+	display: inline-block;
 }
 
 div .oops {

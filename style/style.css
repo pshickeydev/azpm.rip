@@ -8,7 +8,7 @@ body {
 	color: #de0000;
 	font-family: "Bebas Kai", sans-serif;
 	width: 100%;
-	margin: auto;
+	margin: 0 auto 0 auto;
 	text-align: center;
 	display: block;
 	white-space: nowrap;

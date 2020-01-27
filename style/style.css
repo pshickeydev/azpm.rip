@@ -45,17 +45,17 @@ a:link {
 }
 
 h1 {
-	font-size: 400%;
-}
-
-#construction {
 	font-size: 300%;
 }
 
-#youtube {
+#construction {
 	font-size: 250%;
 }
 
+#youtube {
+	font-size: 200%;
+}
+
 #twitch {
-	font-size: 250%;
+	font-size: 200%;
 }

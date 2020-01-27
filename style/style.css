@@ -1,6 +1,6 @@
 @font-face {
 	font-family: "Bebas Kai";
-	src: url(https://dl.dafont.com/dl/?f=bebas_kai);
+	src: url("BebasKai.ttf") format("ttf");
 }	
 
 body {
@@ -39,17 +39,17 @@ a:link {
 }
 
 h1 {
-	font-size: 48px;
+	font-size: 200%;
 }
 
 div #construction {
-	font-size: 42px;
+	font-size: 125%;
 }
 
 div #youtube {
-	font-size: 24px;
+	font-size: 100%;
 }
 
 div #twitch {
-	font-size: 24px;
+	font-size: 100%;
 }

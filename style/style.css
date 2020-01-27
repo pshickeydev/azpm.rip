@@ -21,6 +21,10 @@ a:link {
 	color: #000d48;
 }
 
+h1 {
+	font-size: 48px;
+}
+
 div #construction {
 	font-size: 42px;
 }

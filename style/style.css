@@ -9,7 +9,13 @@ body {
 	font-family: "Bebas Kai", sans-serif;
 	width: 100%;
 	margin: auto;
+	text-align: center;
 	display: block;
+}
+
+body > div {
+	background-color: #1c1c1c;
+	width: 90%;
 }
 
 a:hover {

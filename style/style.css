@@ -16,7 +16,10 @@ body {
 body > div {
 	background-color: #1c1c1c;
 	width: 90%;
-	display: inline-block;
+}
+
+div .* {
+	display: inline;
 }
 
 div .oops {

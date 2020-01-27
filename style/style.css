@@ -1,6 +1,7 @@
 @font-face {
 	font-family: "Bebas Kai";
-	src: url("/style/BebasKai.ttf") format("ttf");
+	src: url("style/BebasKai.otf") format("otf");
+	src: url("style/BebasKai.ttf") format("ttf");
 }	
 
 body {

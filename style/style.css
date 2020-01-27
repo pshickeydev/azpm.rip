@@ -11,6 +11,7 @@ body {
 	margin: auto;
 	text-align: center;
 	display: block;
+	white-space: nowrap;
 }
 
 body > div {
@@ -20,6 +21,7 @@ body > div {
 
 div .* {
 	display: inline;
+	font-style: italic;
 }
 
 div .oops {

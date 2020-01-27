@@ -1,6 +1,12 @@
+@font-face {
+	font-family: "Bebas Kai";
+	src: url(https://dl.dafont.com/dl/?f=bebas_kai);
+}	
+
 html {
 	background-color: #1b1b1b;
 	color: #de0000;
+	font-family: "Bebas Kai", sans-serif;
 }
 
 a:hover {
@@ -13,4 +19,16 @@ a:visited {
 
 a:link {
 	color: #000d48;
+}
+
+div #construction {
+	font-size: 42px;
+}
+
+div #youtube {
+	font-size: 24px;
+}
+
+div #twitch {
+	font-size: 24px;
 }

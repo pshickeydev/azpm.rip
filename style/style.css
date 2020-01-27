@@ -19,7 +19,7 @@ body > div {
 	width: 90%;
 }
 
-div [class=*] {
+div [class^="o"] {
 	display: inline;
 	font-style: italic;
 }
@@ -28,7 +28,7 @@ div .oops {
 	text-decoration: line-through;
 }
 
-div .fix {
+div .okay {
 	text-decoration: underline;
 }
 

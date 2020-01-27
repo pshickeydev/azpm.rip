@@ -1,0 +1,16 @@
+html {
+	background-color: #1b1b1b;
+	color: #de0000;
+}
+
+a:hover {
+	color: #fff708;
+}
+
+a:visited {
+	color: #700000;
+}
+
+a:link {
+	color: #000d48;
+}

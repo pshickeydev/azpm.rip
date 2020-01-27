@@ -3,12 +3,13 @@
 	src: url(https://dl.dafont.com/dl/?f=bebas_kai);
 }	
 
-html {
+body {
 	background-color: #1b1b1b;
 	color: #de0000;
 	font-family: "Bebas Kai", sans-serif;
 	width: 100%;
 	margin: auto;
+	display: block;
 }
 
 a:hover {

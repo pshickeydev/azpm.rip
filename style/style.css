@@ -32,16 +32,16 @@ div .okay {
 	text-decoration: underline;
 }
 
-a:hover {
-	color: #fff708;
+a:link {
+	color: #000d48;
 }
 
 a:visited {
 	color: #700000;
 }
 
-a:link {
-	color: #000d48;
+a:hover {
+	color: #fff708;
 }
 
 h1 {

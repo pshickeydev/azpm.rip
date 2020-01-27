@@ -18,6 +18,14 @@ body > div {
 	width: 90%;
 }
 
+div .oops {
+	text-decoration: line-through;
+}
+
+div .fix {
+	text-decoration: underline;
+}
+
 a:hover {
 	color: #fff708;
 }

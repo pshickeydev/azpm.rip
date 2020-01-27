@@ -7,6 +7,8 @@ html {
 	background-color: #1b1b1b;
 	color: #de0000;
 	font-family: "Bebas Kai", sans-serif;
+	width: 100%;
+	margin: auto;
 }
 
 a:hover {
